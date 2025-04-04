@@ -10,7 +10,7 @@ public class WrapperClassConcept {
 		Integer c = a +b; // Auto Boxing 
 		System.out.println(c);
 		
-		int d = c;// auto Unboxing
+		int d = c;// auto Un-boxing
 		System.out.println(d);
 		
 		// Boxing , Explicitly boxing 
